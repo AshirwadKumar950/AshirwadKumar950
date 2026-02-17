@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm B.Tech 3rd year student.<br>Languages- C++, Java, Python, JavaScript<br>Comptative Programming - Guardian (2126) at LeetCode, 3 star at CodeChef<br>Frontend - HTML, CSS, Bootstrap, Tailwind, React<br>Backend - Node.js, Express.js<br>Database - MySQL, PostgreSQL(PostGIS)
+I'm B.Tech C.S.E 3rd year student.<br>Languages- C++, Java, Python, JavaScript<br>Comptative Programming - Guardian (2126) at LeetCode, 3 star at CodeChef<br>Frontend - HTML, CSS, Bootstrap, Tailwind, React<br>Backend - Node.js, Express.js<br>Database - MySQL, PostgreSQL(PostGIS)
 
 
 # 💻 Tech Stack:
